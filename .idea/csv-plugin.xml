@@ -17,6 +17,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\sample_data\Mall_Customers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\sample_data\diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
